@@ -1,4 +1,4 @@
-pha
+PHA
 ===
 
-personal home automation
+Personal Home Automation
